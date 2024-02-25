@@ -30,4 +30,16 @@ Las 13 características clínicas incluidas en el conjunto de datos son:
 ###### Archivos de la Entrega No. 1:
 1. PD_parte1_promedioEdad.py
 2. Readme.md
+3. heart_failure_clinical_records_dataset.csv
+------------
+
+##### Proyecto Dataset - Parte No. 2 (Carga de datos):
+Continuando con la anterior sección del proyecto integrador, se debe realizar lo siguiente:
+
+- Convertir la estructura Dataset en un DataFrame de Pandas usando pd.DataFrame.
+- Separar el dataframe en dos diferentes, uno conteniendo las filas con personas que perecieron (is_dead=1) y otro con el complemento.
+- Calcular los promedios de las edades de cada dataset e imprimir.
+
+###### Archivos de la Entrega No. 1:
+1. PD_parte2_cargaDatos.py
 ------------
