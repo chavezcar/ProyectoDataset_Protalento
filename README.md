@@ -40,6 +40,16 @@ Continuando con la anterior sección del proyecto integrador, se debe realizar l
 - Separar el dataframe en dos diferentes, uno conteniendo las filas con personas que perecieron (is_dead=1) y otro con el complemento.
 - Calcular los promedios de las edades de cada dataset e imprimir.
 
-###### Archivos de la Entrega No. 1:
+###### Archivos de la Entrega No. 2:
 1. PD_parte2_cargaDatos.py
+------------
+
+##### Proyecto Dataset - Parte No. 3 (Calculando analíticas simples):
+Continuando con el DataFrame con todos los datos de la anterior subsección, ahora se debe hacer lo siguiente:
+
+- Verificar que los tipos de datos son correctos en cada colúmna (por ejemplo que no existan colúmnas numéricas en formato de cadena).
+- Calcular la cantidad de hombres fumadores vs mujeres fumadoras (usando agregaciones en Pandas).
+
+###### Archivos de la Entrega No. 3:
+1. PD_parte3_analiticaSimple.py
 ------------
