@@ -53,3 +53,15 @@ Continuando con el DataFrame con todos los datos de la anterior subsección, aho
 ###### Archivos de la Entrega No. 3:
 1. PD_parte3_analiticaSimple.py
 ------------
+
+##### Proyecto Dataset - Parte No. 4 (Procesando información en bruto):
+Imagina que no tuvieramos el acceso fácil de estos datos a través de la librería y tuvieramos que descargar los datos usando requests.
+Los datos son accesibles en esta dirección <https://huggingface.co/datasets/mstz/heart_failure/raw/main/heart_failure_clinical_records_dataset.csv>
+
+- Realizar un GET request para descargarlos y escribir la respuesta como un archivo de texto plano con extensión csv (no se necesita pandas para esto, sólo manipulación de archivos nativa de Python).
+- Agrupar el código para esto en una función reutilizable que reciba como argumento la url.
+
+###### Archivos de la Entrega No. 4:
+1. PD_parte4_procesandoInfoEnBruto.py
+2. ResultadoConsulta.csv
+------------
